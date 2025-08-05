@@ -1,0 +1,119 @@
+[
+  {
+    "VersionNumber": 1,
+    "OriginalFilename": "draft.md",
+    "SavedFileName": "1-draft.md",
+    "CommitMessage": "Initial version of file",
+    "Timestamp": "2025-08-04T23:29:31.3934857Z",
+    "Author": null,
+    "Email": null
+  },
+  {
+    "VersionNumber": 2,
+    "OriginalFilename": "draft.md",
+    "SavedFileName": "2-draft.md",
+    "CommitMessage": "added new section to test diff function",
+    "Timestamp": "2025-08-05T04:52:32.5775319Z",
+    "Author": null,
+    "Email": null
+  },
+  {
+    "VersionNumber": 3,
+    "OriginalFilename": "draft.md",
+    "SavedFileName": "3-draft.md",
+    "CommitMessage": "Testing global install",
+    "Timestamp": "2025-08-05T05:31:50.9194766Z",
+    "Author": null,
+    "Email": null
+  },
+  {
+    "VersionNumber": 4,
+    "OriginalFilename": "secret-notes.md",
+    "SavedFileName": "4-secret-notes.md",
+    "CommitMessage": "Trying to commit an ignored file",
+    "Timestamp": "2025-08-05T06:10:41.9341239Z",
+    "Author": null,
+    "Email": null
+  },
+  {
+    "VersionNumber": 5,
+    "OriginalFilename": "secret-notes.md",
+    "SavedFileName": "5-secret-notes.md",
+    "CommitMessage": "Trying to commit an ignored file",
+    "Timestamp": "2025-08-05T06:12:58.6957342Z",
+    "Author": null,
+    "Email": null
+  },
+  {
+    "VersionNumber": 6,
+    "OriginalFilename": "secret-notes.md",
+    "SavedFileName": "6-secret-notes.md",
+    "CommitMessage": "should NOT commit",
+    "Timestamp": "2025-08-05T06:30:54.7538769Z",
+    "Author": null,
+    "Email": null
+  },
+  {
+    "VersionNumber": 7,
+    "OriginalFilename": "secret-notes.md",
+    "SavedFileName": "7-secret-notes.md",
+    "CommitMessage": "ignore test",
+    "Timestamp": "2025-08-05T06:32:27.9880071Z",
+    "Author": null,
+    "Email": null
+  },
+  {
+    "VersionNumber": 8,
+    "OriginalFilename": "secret-notes.md",
+    "SavedFileName": "8-secret-notes.md",
+    "CommitMessage": "ignore test",
+    "Timestamp": "2025-08-05T06:34:04.4850789Z",
+    "Author": null,
+    "Email": null
+  },
+  {
+    "VersionNumber": 9,
+    "OriginalFilename": "secret-notes.md",
+    "SavedFileName": "9-secret-notes.md",
+    "CommitMessage": "ignore test",
+    "Timestamp": "2025-08-05T06:41:39.1076701Z",
+    "Author": null,
+    "Email": null
+  },
+  {
+    "VersionNumber": 10,
+    "OriginalFilename": "readme.md",
+    "SavedFileName": "10-readme.md",
+    "CommitMessage": "Updated structure",
+    "Timestamp": "2025-08-05T06:50:56.3680516Z",
+    "Author": null,
+    "Email": null
+  },
+  {
+    "VersionNumber": 11,
+    "OriginalFilename": "readme.md",
+    "SavedFileName": "11-readme.md",
+    "CommitMessage": "Updated structure",
+    "Timestamp": "2025-08-05T06:51:28.6550087Z",
+    "Author": "Daniel",
+    "Email": "daniel@example.com"
+  },
+  {
+    "VersionNumber": 12,
+    "OriginalFilename": "readme.md",
+    "SavedFileName": "12-readme.md",
+    "CommitMessage": "Add bio",
+    "Timestamp": "2025-08-05T06:54:16.4257538Z",
+    "Author": "Daniel Minichetti",
+    "Email": "daniel.minichetti@gmail.com"
+  },
+  {
+    "VersionNumber": 13,
+    "OriginalFilename": "readme.md",
+    "SavedFileName": "13-readme.md",
+    "CommitMessage": "Adding bio via config",
+    "Timestamp": "2025-08-05T07:00:44.5044163Z",
+    "Author": "John Smith",
+    "Email": "your.email@example.com"
+  }
+]

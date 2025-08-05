@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Basic_Version_Control": {
+      "commandName": "Project",
+      "commandLineArgs": "init"
+    }
+  }
+}

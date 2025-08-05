@@ -1,0 +1,13 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# VCS tool metadata
+.vcs/
+.vcsconfig
+.vcsignore
